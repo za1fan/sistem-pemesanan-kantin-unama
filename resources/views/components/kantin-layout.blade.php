@@ -1,0 +1,1 @@
+@include('layouts.kantin', ['title' => $title ?? null, 'slot' => $slot])
